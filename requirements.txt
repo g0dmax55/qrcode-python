@@ -1,2 +1,2 @@
-colorama==0.4.4
-progress==1.6
+PyQRCode==1.2.1
+pypng==0.0.21
